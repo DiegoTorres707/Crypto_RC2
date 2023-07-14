@@ -1,0 +1,8 @@
+Instrucciones:
+
+para compilar
+gcc DemoRC2.c -o RC2
+para cifrar
+./RC2 -c 0000000000000000 ceros.txt 8 64
+para decifrar
+./RC2 -d 0000000000000000 ceros.txt.cif 8 64
